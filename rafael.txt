@@ -1,6 +1,3 @@
 rafael
-<<<<<<< HEAD
 Hola.
-=======
 una linea mas
->>>>>>> 21325df82800429152714ad1ff626b7762400309
